@@ -1,0 +1,129 @@
+{
+    "about": "Solid backend knowledge implementing rest API with Express.js, Nest.js, MongoDB, MySql, jsonwebtoken, GraphQl and Typescript. Strong understanding frontend with HTML/CSS, React.js, Next.js, react-hooks, Redux, Redux-Saga, Webpack, Sass, CSS Module. And I’ve experience deploying apps with Docker, Docker Compose, Kubernetes.",
+    "expirience": [
+        {
+            "company": "TEDnologia ",
+            "role": "Intern Developer",
+            "date": "03/2016 - 08/2016",
+            "description": "Create a web pages with Wordpress and start create applications with MAMP(PHP, MySql, HTML, CSS, JavaScript, JQuery) stack.",
+            "isRemote": false
+        },
+        {
+            "company": "Inventarte SAC",
+            "role": "Junior FullStack Developer",
+            "date": "08/2016 - 03/2017",
+            "description": "Developed and improved new features and views an existing E-commerce(PHP, MySql, HTML, CSS, JavaScript, JQuery). And integrate payments(Culqi).",
+            "isRemote": false
+        },
+        {
+            "company": "Inventarte SAC",
+            "role": "FullStack Developer",
+            "date": "03/2017 - 07/2018",
+            "description": "Maintain sites and servers(PHP, Linux). Develop sites and landing pages(Wordpress).",
+            "isRemote": false
+        },
+        {
+            "company": "Quantico Trends",
+            "role": "Software Developer",
+            "date": "07/2018 - 08/2021",
+            "description": "I started developed new and existing sites(ReactJs, GraphQl, redux, redux-saga, Lucid, Semantic UI, axios). Then I developed APIs and ETLs oriented to micro services(NodeJs, ExpressJs, Python, Flask, GraphQl). Store Data(MySql, MongoDB, ElasticSearch). Caching data(Redis). Data pipeline (Rabbit MQ). Deploy apps (Linux server, docker, docker-compose, kubernetes).",
+            "isRemote": true
+        },
+        {
+            "company": "Moonshot Partners",
+            "role": "Software Engineer",
+            "date": "07/2018 - 08/2021",
+            "description": "Extract, Transform data for different providers(APIs, files, web scrapping) and Load on queues(ServerLess, MongoDB, Azure, AWS). Created custom connectors for Airbyte (TypeScript, Docker). Developed APIs(NestJs, TypeScript). Mantein and improve an application(ReactJs, Express, React Native, Postgress).",
+            "isRemote": true
+        }
+    ],
+    "education": [
+        {
+            "institution": "Institute San Ignacio de Loyola",
+            "description": "Institute San Ignacio de Loyola - Software development | 2014 - 2016"
+        },
+        {
+            "institution": "AWS",
+            "description": "AWS Cloud Practitioner certified. (https://www.credly.com/badges/90f2f0bd-5c79-4602-a748-df880e057c5b/public_url)"
+        }
+    ],
+    "skills": [
+        {
+            "title": "Frontend",
+            "items": [
+                "HTML",
+                "CSS",
+                "ReactJS",
+                "VuejS",
+                "Next JS",
+                "Tailwind CSS",
+                "ShadCn"
+            ]
+        },
+        {
+            "title": "Backend",
+            "items": [
+                "NodeJs",
+                "GraphQL",
+                "Nest.js",
+                "Flask"
+            ]
+        },
+        {
+            "title": "Database",
+            "items": [
+                "MySql",
+                "MongoDB",
+                "Postgress",
+                "ElasticSearch",
+                "Redis",
+                "RabbitMQ"
+            ]
+        },
+        {
+            "title": "Coplements",
+            "items": [
+                "Docker",
+                "Kubernetes cli",
+                "Microservices",
+                "Rabbit MQ",
+                "Vercel",
+                "Airbyte",
+                "AWS"
+            ]
+        }
+    ],
+    "projects": [
+        {
+            "title": "Lalicore",
+            "description":"Ecomerce wine store, with a section to custom a message in the bottle.",
+            "skills": ["Mamp Stack", "Payment Culqi"]
+        },
+        {
+            "title": "Refactor ETL to Microservices",
+            "description":"Decopling plain scripts to individual services.",
+            "skills": ["RabbitMQ", "Kubernetes", "Js worker", "Py worker"]
+        },
+        {
+            "title": "Go1 ETL",
+            "description":"Migrate data from different sources to a single source.",
+            "skills": ["Airbyte", "Typescript", "Azure"]
+        },
+        {
+            "title": "Gigworx",
+            "description":"Improve and mantein a platform to connect freelancers with companies.",
+            "skills": ["NextJs", "React Native", "Postgress", "ExpressJs"]
+        },
+        {
+            "title": "Reservamos CMS",
+            "description":"Create templates and components to display data from a DATO CMS.",
+            "skills": ["NextJs", "Tailwind CSS", "Dato CMS"]
+        },
+        {
+            "title": "Personal Site",
+            "description":"Create a personal site to show a little about me.",
+            "skills": ["NextJs", "Verel", "Tailwind CSS", "Shadcn"],
+            "link": "https://sonnemon.com"
+        }
+    ]
+}
